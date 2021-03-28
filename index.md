@@ -25,7 +25,12 @@ BS College of Software (4.19/4.5)
 
 Hallym University, ChunCheon, Korea
 
+`2021-Current`
+MS. Computer Science
 
+Advisor: Prof. Soonyoung Jung
+
+Korea University, Seoul, Korea
 
 ## Publications
 
@@ -47,7 +52,7 @@ Heo, T. S., Kim, C., Choi, J. M., ***Jeong, Y. S.***, & Kim, Y. S. (2020, Novemb
     - Minister of Ministry of Trade, Industry and Energy Awards (1st)
 
 `2020`
-- ***[Capstone design]*** (Hallym University): 
+- ***Capstone design*** (Hallym University): 
     - 1st place
 
 `2019`
