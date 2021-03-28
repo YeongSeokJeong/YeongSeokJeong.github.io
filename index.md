@@ -51,22 +51,25 @@ Heo, T. S., Kim, C., Choi, J. M., ***Jeong, Y. S.***, & Kim, Y. S. (2020, Novemb
     - 1st place
 
 `2019`
-- ***[Kangwon Idea Hackerthon]*** (Kangwon-do): 
+- ***Kangwon Idea Hackerthon*** (Kangwon-do): 
     - 2nd place
 `2019`
-- ***[Software Development Competition]*** (Hallym University): 
+- ***Software Development Competition*** (Hallym University): 
     - 1st place
 `2019`
-- ***[Software Idea Competition]*** (Hallym University): 
+- ***Software Idea Competition*** (Hallym University): 
     - 3nd place
 `2019`
--  ***[Best Paper]*** (Korea Software Congres): 
+-  ***Best Paper*** (Korea Software Congres): 
     - 정영석, 허탁성, 김유섭. (2019). 한국어 감성 분석에서 토큰 단위와 불용어 처리 기준에 따른 성능 비교. 한국정보과학회 학술발표논문집, (), 1394-1396.
 
 `2015-2020`
 - Scholarship supported by Hallym University (Academic Excellence Scholarship)
 
 ## Projects
+
+`2021~`
+Deep learning-based source selective audio manipulation framework (National Research Foundation of Korea, Korea University)
 
 `2019~2021`
 Establishment of language resources and deep learning/NLP for diagnosis of automatic speech impairment (National Research Foundation of Korea, Hallym University)
